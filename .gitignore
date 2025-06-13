@@ -54,5 +54,3 @@ coverage.xml
 # VS Code settings
 .vscode/
 
-# Output directory
-Output/ReadyToSend/
